@@ -4,9 +4,9 @@ This is a project on Number Plate Recognition.
 
 Steps involved in the Process :
 
-1) Once a car is detected in the video.
-2)The image of the car is cropped out.
-3)The image of the car is further enhanced.
+1. Once a car is detected in the video.
+2. The image of the car is cropped out.
+3. The image of the car is further enhanced.
 4)The Number Plate is detected in that image and it is extracted.
 5)Using Character Level Segmentation,individual characters are extracted from the cropped number plate.
 6)On the extracted characters,we further preprocess them and then use our CNN models to identify the characters
