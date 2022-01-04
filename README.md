@@ -14,5 +14,8 @@ Steps involved in the Process :
 
 
 
+
+
+
 The CNN models have been trained on the Kaggle and MNIST datasets for 200 epochs each on the Nvidia GPU.
 
